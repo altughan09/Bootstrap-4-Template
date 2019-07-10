@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700');
+
+*
+{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.navbar-brand
+{
+    font-size:30px !important;
+}
+
+#navbarMenu
+{
+    font-size:20px;
+}
+
+.navbar-item
+{
+    padding-left: 10px;
+}
